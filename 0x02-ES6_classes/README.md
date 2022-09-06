@@ -1,0 +1,1 @@
+Worling with es6 classes
