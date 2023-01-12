@@ -11,4 +11,3 @@ def make_multiplier(multiplier: float) -> Callable[[float], float]:
         ''' Returns input multiplied by multiplier '''
         return input * multiplier
     return multiply_this
-    
