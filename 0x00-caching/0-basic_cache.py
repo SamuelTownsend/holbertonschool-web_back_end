@@ -20,4 +20,4 @@ class BasicCache(BaseCaching):
 
         ''' If no key, returns none '''
         if key is None or not key:
-            return None 
+            return None
