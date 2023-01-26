@@ -1,1 +1,1 @@
-working with basic authentication
+working with basic authentications
