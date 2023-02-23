@@ -1,0 +1,4 @@
+// finds all documents with attribute:value pair in "school"
+db.school.find({
+    name: "Holberton school"
+})
